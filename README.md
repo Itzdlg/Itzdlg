@@ -1,16 +1,15 @@
-# 👋 Hey, I'm Dominick
+# Hey, I'm Dominick 👋
 
+🧠 18 years old, male  
 🎓 CS @ the University of Central Florida  
-💬 Discord: **@dominick.sh**  
-🧠 18 yrs old
 
 🏢 Owner of Jasmine Software Solutions, LLC  
+*Developing HR solutions for home health agencies*
+
 🧑‍💻 Freelance Developer  
 
 ---
 
-I'm passionate about building cool, useful things.
+Feel free to message me on Discord if you'd like to work together  
 
----
-
-🚀 Always down to collaborate— hit me up on Discord!
+💬 **@dominick.sh**  
